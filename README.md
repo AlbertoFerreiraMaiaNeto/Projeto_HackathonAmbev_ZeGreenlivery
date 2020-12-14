@@ -1,6 +1,6 @@
 # Projeto Zé Greenlivery
 
-![Capturar](https://drive.google.com/file/d/1--f_hxDsesaPgpLgIlitkzEQDsvK3ggQ/view?usp=sharing)
+![Capturar](https://user-images.githubusercontent.com/61087112/102036121-d0148700-3da0-11eb-9c16-5e85f130ed3e.jpg)
 >Algumas telas do APP
 
 ## Sobre o Projeto
