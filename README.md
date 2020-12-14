@@ -1,6 +1,6 @@
 # Projeto Zé Greenlivery
 
-[CLIQUE AQUI PARA ASSISTIR O VIDEO DEMO](https://youtu.be/IQtu0IvC4eE)
+[CLIQUE AQUI PARA ASSISTIR O VIDEO DEMO DA NAVEGAÇÃO E DO CÓDIGO](https://youtu.be/IQtu0IvC4eE)
 
 ![Capturar](https://user-images.githubusercontent.com/61087112/102036121-d0148700-3da0-11eb-9c16-5e85f130ed3e.jpg)
 >Algumas telas do APP
