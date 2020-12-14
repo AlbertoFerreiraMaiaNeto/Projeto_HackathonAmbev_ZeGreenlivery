@@ -50,8 +50,8 @@ de como entregar o produto perfeito para o consumidor, promovendo acesso a cerve
  
 ## Plugins utilizados
  
- - [Flare_flutter](https://pub.dev/packages/flare_flutter) - Animações Vetoriais 
- - [rating_bar](https://pub.dev/packages/rating_bar/) - Para injeção de dependências
+ - [Flare_flutter](https://pub.dev/packages/flare_flutter) - Animações Vetoriais.
+ - [rating_bar](https://pub.dev/packages/rating_bar/) - Para avaliação dos produtos.
   
 ## Contato
  
